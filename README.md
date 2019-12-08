@@ -164,15 +164,18 @@ result': [{'score': 0.225492, 'root': '商品-玩具', 'keyword': '风筝'},
 
 ![腾讯AI多人脸检测](https://upload-images.jianshu.io/upload_images/9412832-ab6b82fcfcd471a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- * 百度AI人流量统计
+* 百度AI人流量统计
 * 开放平台使用链接：[https://ai.baidu.com/tech/body/num](https://ai.baidu.com/tech/body/num)
 
 ![百度AI](https://upload-images.jianshu.io/upload_images/9412832-d8fb28283d78ab74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 百度与Face++还有腾讯AI的输出结果比较
 1、百度人流量识别api以头肩为主要识别目标统计人数，无需正脸、全身照，输出结果为人流量具体数据，输出数据结果和其他的api对比更加精准。
+
 2、Face++身体检测识别出图片的部分人流数据，但是输出结果没有具体的数量，以及部分人体未被识别到，返回数据部分偏差。
+
 3、腾讯AI多人脸检测输出结果为人脸识别列表，此功能劣势在于无法识别出无正脸的人体，应用在人流量识别的话输出数据结果偏差较大。
+
 
 ### 3、使用后风险报告
 ##### API市场竞争程度
