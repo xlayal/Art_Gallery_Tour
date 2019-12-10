@@ -199,4 +199,12 @@ result': [{'score': 0.225492, 'root': '商品-玩具', 'keyword': '风筝'},
 #### API使用错误现象分析
 
 #### 输入输出限制及API使用定价表
+* 人流量通用识别
+* 数据来源[https://ai.baidu.com/tech/body/num](https://ai.baidu.com/tech/body/num)
+
+![人流量_调用限制及定价](https://upload-images.jianshu.io/upload_images/9412832-4fa8b651adb3c55c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* 通用物体和场景识别
+* 数据来源[https://ai.baidu.com/tech/body/num](https://ai.baidu.com/tech/body/num)
+![物体识别_调用限制及定价](https://upload-images.jianshu.io/upload_images/9412832-fa766c49a8fbd80e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
