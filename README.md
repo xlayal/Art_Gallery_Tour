@@ -74,13 +74,15 @@
 
 ![api输出信息2](https://upload-images.jianshu.io/upload_images/9412832-66cd8b7bc635d8c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### 3、产品架构图
+![产品架构图](https://upload-images.jianshu.io/upload_images/9412832-5680af2dd3c74a83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 3、原型文档 
+### 4、原型文档 
 #### 1、展示页面连接：[http://xlayal.gitee.io/art_gallery](http://xlayal.gitee.io/art_gallery)
 
 #### 2、原型文档下载：[美术馆导览APP原型文件](https://gitee.com/xlayal/art_gallery)
 
-### 4、口头操作说明 
+### 5、口头操作说明 
 大家好！今天为大家介绍一款美术馆导览产品，此产品有两个使用到人工智能技术的功能那个——人流量识别和通用物体和场景识别。首先第一个功能，用户通过选择自己想去观展的美术馆地点，我们通过对此地方的人流量分析数据生成的热力图，通过地图可视化的界面返回给用户，简单来说，用户只要在地图上选择对应的美术馆，就可以看到此地方的人流量及分布密度。第二个功能我们简称它为“拍图识别”，在美术馆看到不认识的展品，只需点开拍照扫描的功能按钮，通过拍摄这个展品，通过返回识别出来的结果给用户。
 
 ## 三、API 产品使用及输出展示
